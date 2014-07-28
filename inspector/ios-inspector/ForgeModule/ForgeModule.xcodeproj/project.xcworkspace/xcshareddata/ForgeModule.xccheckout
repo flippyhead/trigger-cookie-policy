@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8E3C3785-C1BC-48BF-96F7-A540E42141B2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ForgeModule</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD4999CB-95F7-436C-AF0F-DB5740BA8835</key>
+		<string>https://github.com/flippyhead/trigger-cookie-policy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>inspector/ios-inspector/ForgeModule/ForgeModule.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD4999CB-95F7-436C-AF0F-DB5740BA8835</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/flippyhead/trigger-cookie-policy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD4999CB-95F7-436C-AF0F-DB5740BA8835</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD4999CB-95F7-436C-AF0F-DB5740BA8835</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trigger-cookie-policy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
