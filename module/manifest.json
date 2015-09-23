@@ -1,8 +1,8 @@
 {
-	"description": "Change the cookie policy.",
-	"min_platform_version": "v2.1.4",
-	"namespace": "cookiepolicy",
-	"platform_version": "v2.1.4",
-	"version": "1.0.1",
-	"changes": "Updated signatures."
+    "changes": "Updated to work with iOS8.", 
+    "description": "Change the cookie policy.", 
+    "min_platform_version": "v2.2.7", 
+    "namespace": "cookiepolicy", 
+    "platform_version": "v2.2.7", 
+    "version": "1.0.3"
 }
